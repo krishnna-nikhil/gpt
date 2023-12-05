@@ -46,3 +46,16 @@ Input the question you want to be answered.
 Provide Contexts:
 For each context, provide the author and text from research papers.
 
+# Conversational Retrieval Chatbot (chatgpt.py)
+
+This program utilizes OpenAI's GPT-3.5-turbo model to build a conversational retrieval chatbot. The chatbot can answer questions based on a provided dataset using a conversational retrieval approach.
+
+## Purpose
+
+This program was created for two specific reasons:
+
+1. **Resume Evaluation:**
+   - The primary purpose is to assist a friend in tracking, scoring, and selecting the best resumes for consulting roles. The chatbot can analyze resumes, flagging relevant skills and keywords to streamline the resume evaluation process.
+
+2. **Trademark Search:**
+   - Additionally, the program serves the needs of my friend who is an associate in one of the country's leading law firms. It enables the associate to upload large files and employ ChatGPT to search through them. The chatbot identifies instances where certain trademarks are used and flags these occurrences for further review.
